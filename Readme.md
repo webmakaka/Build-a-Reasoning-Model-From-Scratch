@@ -38,14 +38,15 @@ torch.mps.is_available()
 
 <br>
 
-In Build a Reasoning Model (From Scratch), you will learn and understand how a reasoning large language model (LLM) works.
+В книге «Создание модели рассуждения (с нуля)» вы изучите и поймете принципы работы большой языковой модели (LLM) с функцией рассуждения.
 
-Reasoning is one of the most exciting and important recent advances in improving LLMs, but it’s also one of the easiest to misunderstand if you only hear the term reasoning and read about it in theory. This is why this book takes a hands-on approach. We will start with a pre-trained base LLM and then add reasoning capabilities ourselves, step by step in code, so you can see exactly how it works.
+Рассуждение — одно из наиболее важных и перспективных достижений в улучшении LLM за последнее время. Однако этот термин легко понять неправильно, если изучать его только теоретически. Поэтому книга ориентирована на практику. Процесс начнется с предобученной базовой LLM, к которой пошагово в коде будут добавлены возможности рассуждения для наглядной демонстрации механизмов работы.
 
-The methods described in this book walk you through the process of developing your own small-but-functional reasoning model for educational purposes. It mirrors the approaches used in creating large-scale reasoning models such as DeepSeek R1, GPT-5 Thinking, and others. In addition, this book includes code for loading the weights of existing, pretrained models.
+Описанные методы пошагово проводят через процесс разработки собственной небольшой, но функциональной модели рассуждения в образовательных целях. Этот подход копирует методы создания крупномасштабных моделей рассуждения, таких как DeepSeek R1, GPT-5 Thinking и других. Дополнительно книга содержит код для загрузки весов существующих предобученных моделей.
+
 
 <br>
 
-### The mental model below summarizes the main techniques covered in this book.
+### Представленная ниже ментальная модель обобщает основные методы, рассматриваемые в этой книге.
 
-<img src="./img/mental-model.webp" width="650px">
+<img src="./img/mental-model.webp" alt="Build A Reasoning Model (From Scratch)" width="650px">
