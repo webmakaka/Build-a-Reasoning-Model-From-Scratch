@@ -18,59 +18,14 @@ Reasoning is one of the most exciting and important recent advances in improving
 
 The methods described in this book walk you through the process of developing your own small-but-functional reasoning model for educational purposes. It mirrors the approaches used in creating large-scale reasoning models such as DeepSeek R1, GPT-5 Thinking, and others. In addition, this book includes code for loading the weights of existing, pretrained models.
 
-<br>
-<br>
-
-## Table of Contents (In Progress)
-
-[![Code tests Linux](https://github.com/rasbt/reasoning-from-scratch/actions/workflows/tests-linux.yml/badge.svg)](https://github.com/rasbt/reasoning-from-scratch/actions/workflows/tests-linux.yml)
-[![Code tests macOS](https://github.com/rasbt/reasoning-from-scratch/actions/workflows/tests-macos.yml/badge.svg)](https://github.com/rasbt/reasoning-from-scratch/actions/workflows/tests-macos.yml)
-[![Code tests Windows](https://github.com/rasbt/reasoning-from-scratch/actions/workflows/tests-windows.yml/badge.svg)](https://github.com/rasbt/reasoning-from-scratch/actions/workflows/tests-windows.yml)
-
-- [Troubleshooting Guide](./troubleshooting.md)
-
-| Chapter Title                                               | Main Code                                                                                                                                                     |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ch 1: Understanding reasoning Models                        | No code                                                                                                                                                       |
-| Ch 2: Generating Text with a Pre-trained LLM                | - [ch02_main.ipynb](ch02/01_main-chapter-code/ch02_main.ipynb)<br/>- [ch02_exercise-solutions.ipynb](ch02/01_main-chapter-code/ch02_exercise-solutions.ipynb) |
-| Ch 3: Evaluating Reasoning Models                           | - [ch03_main.ipynb](ch03/01_main-chapter-code/ch03_main.ipynb)<br/>- [ch03_exercise-solutions.ipynb](ch03/01_main-chapter-code/ch03_exercise-solutions.ipynb) |
-| Ch 4: Improving Reasoning with Inference-Time Scaling       | - [ch04_main.ipynb](ch04/01_main-chapter-code/ch04_main.ipynb)<br/>- [ch04_exercise-solutions.ipynb](ch04/01_main-chapter-code/ch04_exercise-solutions.ipynb) |
-| Ch 5: Inference-Time Scaling via Self-Refinement            | - [ch05_main.ipynb](ch05/01_main-chapter-code/ch05_main.ipynb)<br/>- [ch05_exercise-solutions.ipynb](ch05/01_main-chapter-code/ch05_exercise-solutions.ipynb) |
-| Ch 6: Training Reasoning Models with Reinforcement Learning | - [ch06_main.ipynb](ch06/01_main-chapter-code/ch06_main.ipynb)<br/>- [ch06_exercise-solutions.ipynb](ch06/01_main-chapter-code/ch06_exercise-solutions.ipynb) |
-| Ch 7: Improving GRPO for Reinforcement Learning             | - [ch07_main.ipynb](ch07/01_main-chapter-code/ch07_main.ipynb)<br/>- [ch07_exercise-solutions.ipynb](ch07/01_main-chapter-code/ch07_exercise-solutions.ipynb) |
-| Ch 8: Distilling Reasoning Models for Efficient Reasoning   | - [ch08_main.ipynb](ch08/01_main-chapter-code/ch08_main.ipynb)<br/>- [ch08_exercise-solutions.ipynb](ch08/01_main-chapter-code/ch08_exercise-solutions.ipynb) |
-| Appendix A: References and Further Reading                  | No code                                                                                                                                                       |
-| Appendix B: Exercise Solutions                              | Code and solutions are in each chapter's subfolder                                                                                                            |
-| Appendix C: Qwen3 LLM Source Code                           | - [chC_main.ipynb](chC/01_main-chapter-code/chC_main.ipynb)                                                                                                   |
-| Appendix D: Using larger LLMs                               | - [chD_main.ipynb](chD/chD_main.ipynb)                                                                                                                        |
-| Appendix E: Batching and throughput-oriented execution      | - [chE_main.ipynb](chE/chE_main.ipynb)                                                                                                                        |
-| Appendix F: Common Approaches to LLM Evaluation             | - [chF_main.ipynb](chF/01_main-chapter-code/chF_main.ipynb)                                                                                                   |
-| Appendix G: Building a Chat Interface                       | - [chG](chG)                                                                                                                                                  |
+     |
 
 <br>
 &nbsp;
 
 The mental model below summarizes the main techniques covered in this book.
 
-<img src="https://sebastianraschka.com/images/reasoning-from-scratch-images/mental-model.webp" width="650px">
-
-<br>
-
-&nbsp;
-
-## Companion Book
-
-Please note that _Build A Reasoning Model (From Scratch)_ is a standalone book focused on methods to improve LLM reasoning.
-
-In this book, we work with a pre-trained open-source base LLM (Qwen3) on top of which we code apply reasoning methods from scratch. This includes inference-time scaling, reinforcement learning, and distillation.
-
-However, if you are interested in understanding how a conventional base LLM is implemented, you may like my previous book, [_Build a Large Language Model (From Scratch)_](https://amzn.to/4fqvn0D).
-
-<a href="https://amzn.to/4fqvn0D"><img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/cover.jpg?123" width="120px"></a>
-
-- [Amazon link](https://amzn.to/4fqvn0D)
-- [Manning link](http://mng.bz/orYv)
-- [GitHub repository](https://github.com/rasbt/LLMs-from-scratch)
+<img src="./img/mental-model.webp" width="650px">
 
 <br>
 &nbsp;
