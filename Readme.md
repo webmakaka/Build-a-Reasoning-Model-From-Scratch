@@ -14,7 +14,9 @@ https://www.youtube.com/watch?v=Kh9mqTzjuEQ
 
 ```shell
 $ uv sync
-$ uv run jupyter lab
+$ uv run python -c "import sys; print(sys.executable)"
+// $ uv run jupyter lab
+$ vscode .
 ```
 
 <br>
