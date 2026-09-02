@@ -1,4 +1,4 @@
-# [Книга][Рашка С.] Build A Reasoning Model (From Scratch) [ENG, 2026]
+# [Книга][Рашка С.] Создание рассуждающей модели (с нуля) [ENG, 2026]
 
 <img src="./img/Build-A-Reasoning-Model-From-Scratch-Cover.webp" alt="Build A Reasoning Model (From Scratch)" height="256px" align="right">
 
