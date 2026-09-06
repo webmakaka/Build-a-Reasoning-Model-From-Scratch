@@ -7,7 +7,7 @@ https://github.com/rasbt/reasoning-from-scratch
 
 <br>
 
-**Build A Reasoning Model Scratch 1: Motivation & Code Setup**  
+**01. Motivation & Code Setup**  
 https://www.youtube.com/watch?v=Kh9mqTzjuEQ
 
 <br>
@@ -37,6 +37,12 @@ torch.__version__
 torch.cuda.is_available()
 torch.mps.is_available()
 ```
+
+<br>
+
+**02. Loading a Base Model, Text Generation, and KV Caching**  
+https://www.youtube.com/watch?v=AKIiGDMonSo
+
 
 <br>
 
