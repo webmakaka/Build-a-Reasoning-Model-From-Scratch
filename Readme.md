@@ -58,3 +58,8 @@ torch.mps.is_available()
 **02. Loading a Base Model, Text Generation, and KV Caching**  
 https://www.youtube.com/watch?v=AKIiGDMonSo
 
+
+<br>
+
+**03. The Verifier for Evaluation and RL with Verifiable Rewards**  
+https://www.youtube.com/watch?v=JQJ_8_jSAoY
