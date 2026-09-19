@@ -63,3 +63,8 @@ https://www.youtube.com/watch?v=AKIiGDMonSo
 
 **03. The Verifier for Evaluation and RL with Verifiable Rewards**  
 https://www.youtube.com/watch?v=JQJ_8_jSAoY
+
+<br>
+
+**04. Inference Scaling 1 (Temperature, Top-p, Self-Consistency)**  
+https://www.youtube.com/watch?v=t5y-kS9nNxU
