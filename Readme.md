@@ -68,3 +68,8 @@ https://www.youtube.com/watch?v=JQJ_8_jSAoY
 
 **04. Inference Scaling 1 (Temperature, Top-p, Self-Consistency)**  
 https://www.youtube.com/watch?v=t5y-kS9nNxU
+
+<br>
+
+**05. Inference Scaling 2 (Logprob Scoring, Self-Refinement)**  
+https://www.youtube.com/watch?v=TVMyOJ_3Gxo
