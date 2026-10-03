@@ -73,3 +73,8 @@ https://www.youtube.com/watch?v=t5y-kS9nNxU
 
 **05. Inference Scaling 2 (Logprob Scoring, Self-Refinement)**  
 https://www.youtube.com/watch?v=TVMyOJ_3Gxo
+
+<br>
+
+**06. Reinforcement Learning 1 (Implementing GRPO for RLVR)**  
+https://www.youtube.com/watch?v=237Hf7Q3lgg
