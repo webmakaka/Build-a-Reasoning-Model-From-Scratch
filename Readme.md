@@ -78,3 +78,13 @@ https://www.youtube.com/watch?v=TVMyOJ_3Gxo
 
 **06. Reinforcement Learning 1 (Implementing GRPO for RLVR)**  
 https://www.youtube.com/watch?v=237Hf7Q3lgg
+
+<br>
+
+**07. Reinforcement Learning 2 (Tracking, KL Terms, And More)**
+https://www.youtube.com/watch?v=VxfUrUrrczs
+
+<br>
+
+**08. Distillation**
+https://www.youtube.com/watch?v=msp69FR5NZs
